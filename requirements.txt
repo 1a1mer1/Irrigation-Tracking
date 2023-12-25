@@ -1,0 +1,8 @@
+requests
+geopy
+kivmob
+python3
+kivy
+android
+jnius
+https://github.com/MichaelStott/KivMob/archive/refs/heads/master.zip
